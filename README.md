@@ -18,18 +18,18 @@
 
 ## References
 ````
-@inproceedings{kardoost_accv_2018,
-TITLE = {Solving Minimum Cost Lifted Multicut Problems by Node Agglomeration},
-AUTHOR = {Kardoost, Amirhossein and Keuper, Margret},
-YEAR = {2018},
-BOOKTITLE = {ACCV 2018, 14th Asian Conference on Computer Vision}
+@inproceedings{Kardoost2018,
+title     = {Solving Minimum Cost Lifted Multicut Problems by Node Agglomeration},
+author    = {A Kardoost and M. Keuper},
+year      = {2018},
+booktitle = {ACCV 2018, 14th Asian Conference on Computer Vision}
 }
 ````
 ````
 @article{Keuper2015,
- title={Efficient Decomposition of Image and Mesh Graphs by Lifted Multicuts},
- author={M. Keuper and E. Levinkov and N. Bonneel and G. Lavou{\'e} and T. Brox and B. Andres},
- journal={ICCV},
- year={2015}
+title    = {Efficient Decomposition of Image and Mesh Graphs by Lifted Multicuts},
+author   = {M. Keuper and E. Levinkov and N. Bonneel and G. Lavou{\'e} and T. Brox and B. Andres},
+journal  = {ICCV},
+year     = {2015}
 }
 ````
